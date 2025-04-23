@@ -14,6 +14,8 @@
 
 ## Sobre o Projeto
 
+Adicionar descrição breve...
+
 <p>Desenvolvido por: </p>
 <p>Duração do projeto: 120 dias</p>
 
@@ -27,6 +29,9 @@
 
 
 ## Tecnologias Utilizadas
+- Next.JS 
+- TypeScript
+- Tailwind
 
 ## Autores
 
